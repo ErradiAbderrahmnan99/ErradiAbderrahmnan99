@@ -1,6 +1,6 @@
 ### Hi there, I'm Erradi - 👋
 
-## I'm a , Developer, 
+## I'm a Software Engineer & designer
 
 🌱 I’m currently learning everything🍽️ <br/>
 👯 I’m looking for new challenges and seeeeek to promote in software design<br/>
