@@ -5,7 +5,7 @@
 🌱 I’m currently learning everything🍽️ <br/>
 👯 I’m looking for new challenges and seeeeek to promote in software design<br/>
 🥅 2022 Goals: Contribute more to Open Source projects<br/>
-⚡ Fun fact: I like to music and swimming and design check my collection 👉🏼👉🏼 <a href="https://dribbble.com/abdety">dribbble</a> & <a href="https://dribbble.com/abdety">flickr</a>
+check my collection 👉🏼👉🏼 <a href="https://dribbble.com/abdety">dribbble</a> & <a href="https://dribbble.com/abdety">flickr</a>
 
 ### Connect with me:
 
