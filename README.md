@@ -1,11 +1,6 @@
 ### Hi there, I'm Erradi - 👋
 
-## I'm a Software Engineer & designer
-
-🌱 I’m currently learning everything🍽️ <br/>
-👯 I’m looking for new challenges and seeeeek to promote in software design<br/>
-🥅 2022 Goals: Contribute more to Open Source projects<br/>
-check my collection 👉🏼👉🏼 <a href="https://dribbble.com/abdety">dribbble</a> & <a href="https://dribbble.com/abdety">flickr</a>
+## I'm a Software programmer & designer
 
 ### Connect with me:
 
