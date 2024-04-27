@@ -1,6 +1,6 @@
 ### Hi there, I'm Erradi - 👋
 
-## I'm a Software programmer & designer
+## I'm a Software programmer
 
 ### Connect with me:
 
