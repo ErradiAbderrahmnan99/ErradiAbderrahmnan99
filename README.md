@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate mobile and back-end Developer wit
 
 🎨 UI/UX Enthusiast: Focused on creating clean, intuitive interfaces
 
-🔧 Currently Working On: A SaaS project for school management
+🔧 Currently Working On: A SaaS project for company management
 
 📚 Learning: Advanced Flutter techniques, Laravel security best practices
 
