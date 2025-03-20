@@ -1,6 +1,6 @@
 ### Hi there, I'm Erradi - 👋
 
-## Welcome to my GitHub profile! I'm a passionate mobile and back-end Developer with expertise in Flutter, Laravel, UI/UX Design, and building SaaS applications. I love working on scalable projects and optimizing user experiences.
+Welcome to my GitHub profile! I'm a passionate mobile and back-end Developer with expertise in Flutter, Laravel, UI/UX Design, and building SaaS applications. I love working on scalable projects and optimizing user experiences.
 
 ### 🚀 About Me
 
@@ -14,14 +14,14 @@
 
 🌱 5+ years experience in Flutter development
 
-### Connect with me:
+### 📫 Let's Connect!:
 
 <a href="https://www.linkedin.com/in/erradi-abderrahmane/"><img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 <a href="https://www.instagram.com/abderahman_erradi/"><img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
 <br />
 
 
-### Languages and Tools:
+### 🛠️ Languages and Tools:
 
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/php/php.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/laravel/laravel.png" />
