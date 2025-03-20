@@ -1,6 +1,18 @@
 ### Hi there, I'm Erradi - 👋
 
-## I'm a Software programmer
+## Welcome to my GitHub profile! I'm a passionate mobile and back-end Developer with expertise in Flutter, Laravel, UI/UX Design, and building SaaS applications. I love working on scalable projects and optimizing user experiences.
+
+### 🚀 About Me
+
+💻 Tech Stack: Flutter, Dart, Laravel, PHP, JavaScript, HTML/CSS, MySQL, PostgreSQL
+
+🎨 UI/UX Enthusiast: Focused on creating clean, intuitive interfaces
+
+🔧 Currently Working On: A SaaS project for school management
+
+📚 Learning: Advanced Flutter techniques, Laravel security best practices
+
+🌱 5+ years experience in Flutter development
 
 ### Connect with me:
 
